@@ -5,5 +5,5 @@ const isLogin = (username) => {
 const register = (username) => {
     return username? true : false
 }
-console.log('xxx')
+console.log(register('arash'))
 
