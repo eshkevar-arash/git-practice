@@ -3,7 +3,10 @@ const isLogin = (username) => {
 }
 
 const register = (username) => {
-    return username? true : false
+    if(username){
+        return true
+    }else{
+        return false
+    }
 }
 console.log(register('arash'))
-
