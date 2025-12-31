@@ -14,3 +14,6 @@ console.log(register('arash'))
 const newBranch = () => {
     // code
 }
+const likeFeature = () => {
+    // code
+}
