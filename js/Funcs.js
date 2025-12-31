@@ -10,3 +10,7 @@ const register = (username) => {
     }
 }
 console.log(register('arash'))
+
+const shoppingCart = () => {
+    // test js
+}
