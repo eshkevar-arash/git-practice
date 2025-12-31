@@ -11,3 +11,6 @@ const register = (username) => {
 }
 console.log(register('arash'))
 
+const newBranch = () => {
+    // code
+}
