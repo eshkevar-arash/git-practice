@@ -17,3 +17,4 @@ const newBranch = () => {
 const likeFeature = () => {
     // code
 }
+const secondBranch = 100
