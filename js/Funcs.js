@@ -11,6 +11,12 @@ const register = (username) => {
 }
 console.log(register('arash'))
 
+<<<<<<< HEAD
 const shoppingCart = () => {
     // test js
+=======
+
+const testBranchCode = () => {
+    // test code
+>>>>>>> testJs
 }
