@@ -18,3 +18,7 @@ const isLogin = (username) => {
 
 const product = 1000000
 
+
+const comment = () => {
+    return true
+}
