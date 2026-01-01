@@ -1,13 +1,7 @@
 
-function getMe(){
-    return true
-}
-function register(){
-    return true
-}
 
 const isLogin = (username) => {
-    if(username){
+    if(username === 'arash' || username === 'adel'){
         return true
     }else{
         return false
@@ -15,10 +9,3 @@ const isLogin = (username) => {
 
 }
 
-
-const product = 1000000
-
-
-const comment = () => {
-    return true
-}
