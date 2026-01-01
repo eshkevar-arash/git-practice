@@ -7,12 +7,7 @@ function register(){
 }
 
 const isLogin = (username) => {
-    if(username){
-        return true
-    }else{
-        return false
-    }
-
+    return true
 }
 
 
