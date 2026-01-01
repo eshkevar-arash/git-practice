@@ -7,3 +7,5 @@ function getMe(){
 function register(){
     return true
 }
+
+const product = 1000000
