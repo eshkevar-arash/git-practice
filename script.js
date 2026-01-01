@@ -1,11 +1,14 @@
 
 
 const isLogin = (username) => {
-    if(username === 'arash' || username === 'adel'){
+    if(username === 'aaa' || username === 'bbb'){
         return true
     }else{
         return false
     }
 
+}
+const refactor = () => {
+    return true
 }
 
