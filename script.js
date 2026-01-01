@@ -4,3 +4,6 @@ const isLogin = () => {
 function getMe(){
     return true
 }
+function register(){
+    return true
+}
