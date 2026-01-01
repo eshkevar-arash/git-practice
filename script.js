@@ -5,6 +5,7 @@ function getMe(){
 function register(){
     return true
 }
+
 const isLogin = (username) => {
     if(username){
         return true
@@ -13,3 +14,7 @@ const isLogin = (username) => {
     }
 
 }
+
+
+const product = 1000000
+
