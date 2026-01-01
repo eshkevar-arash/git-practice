@@ -27,3 +27,6 @@ const secondBranch = 100
 const shoppingCart = () => {
     // code
 }
+function getMe(){
+    return true
+}
