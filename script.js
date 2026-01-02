@@ -13,3 +13,9 @@ const refactor = () => {
 }
 
 const newCode = 'new code'
+
+
+const user = {
+    id: 1, 
+    username: 'arash'
+}
