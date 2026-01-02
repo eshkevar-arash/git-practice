@@ -19,3 +19,7 @@ const user = {
     id: 1, 
     username: 'arash'
 }
+const user2 = {
+    id:2,
+    name: 'adel'
+}
