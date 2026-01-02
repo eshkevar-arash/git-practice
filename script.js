@@ -31,3 +31,4 @@ const user4 = {
     id: '4',
     name: 'ali'
 }
+const str = 'string'
