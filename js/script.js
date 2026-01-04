@@ -32,3 +32,4 @@ const user4 = {
     name: 'ali'
 }
 const str = 'string'
+const arash = 'arash'
